@@ -1,0 +1,32 @@
+<meta>
+    <script src="config.lua" type="client"/>
+	
+	<script src="controlC.lua" type="client"/>
+	<script src="animC.lua" type="client"/>
+	<script src="loadC.lua" type="client"/>
+	<script src="cameraC.lua" type="client"/>
+	<script src="weaponC.lua" type="client"/>
+	<script src="usefulC.lua" type="client"/>
+	<script src="remoteC.lua" type="client"/>
+	
+	<script src="remoteS.lua" type="server"/>
+	<script src="mainS.lua" type="server"/>
+	
+	<file src="assets/models/textures.txd" />
+	<file src="assets/models/arm.dff" />
+	<file src="assets/models/gewerth.dff" />
+	<file src="assets/models/gewerth_mag.dff" />
+	
+	<file src="assets/anim/firstperson.ifp" />
+	
+	<file src="assets/images/flash.png" />
+	<file src="assets/images/hole.png" />
+	
+	<file src="assets/shader/tex.fx" />
+	
+	<file src="assets/sounds/ak47.mp3" />
+	<file src="assets/sounds/ak47_reload.mp3" />
+	<file src="assets/sounds/impact.mp3" />
+	
+    <include resource="bones" />
+</meta>
