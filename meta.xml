@@ -2,7 +2,6 @@
     <script src="config.lua" type="client"/>
 	
 	<script src="controlC.lua" type="client"/>
-	<script src="animC.lua" type="client"/>
 	<script src="loadC.lua" type="client"/>
 	<script src="cameraC.lua" type="client"/>
 	<script src="weaponC.lua" type="client"/>

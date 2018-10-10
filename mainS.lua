@@ -1,6 +1,6 @@
 function _spawn()
 	for _, _p in pairs(getElementsByType("player")) do
-		spawnPlayer(_p, 0, 0, 3)
+		spawnPlayer(_p, 0, 0, 3, 0, 285)
 		fadeCamera(_p, true)
 	end
 end

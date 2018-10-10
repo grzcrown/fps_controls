@@ -271,5 +271,5 @@ end)
 
 setTimer(function()
 	setClientWeapon("gewerth")
-	--addMagazine()
+	addMagazine()
 end, 100, 1)
